@@ -46,7 +46,8 @@
 3. Запустить ноутбук:
    ```bash
    jupyter notebook Price-phone-analysis-master.ipynb
-
+4. Убедитесь, что у вас настроен Kaggle API для автоматической загрузки данных
+   
 ## 🏷 Topics
 `Data Analysis` `EDA` `Visualization` `Kaggle` `Python`
 
