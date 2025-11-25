@@ -19,12 +19,15 @@ Python, pandas, numpy, seaborn, matplotlib, scikit-learn
 - Выявлены модели с разницей цен до 123% между странами → потенциал перепродажи.
 
 ## 🚀 Как запустить
-1. Склонировать репозиторий:  
-   `git clone https://github.com/aspozd-DA-DS/DataAnalytics_projects.git`
+1. Склонировать репозиторий:
+   ```bash
+   git clone https://github.com/aspozd-DA-DS/DataAnalytics_projects.git
 2. Перейти в папку проекта:
+   ```bash
    cd DataAnalytics_projects/01_Kaggle_Price-phone-analysis-master
-3. Запустить ноутбук:  
-   `jupyter notebook Price-phone-analysis-master.ipynb`
+3. Запустить ноутбук:
+   ```bash
+   jupyter notebook Price-phone-analysis-master.ipynb
 
 ## 🏷 Topics
 `Data Analysis` `EDA` `Visualization` `Kaggle` `Python`
