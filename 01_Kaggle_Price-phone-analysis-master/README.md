@@ -49,14 +49,8 @@
 
 ├── `Price-phone-analysis-master.ipynb` — основной ноутбук с полным анализом  
 ├── `Price-phone-analysis-master.pdf` — экспорт в PDF  
-├── `Dataset_Kaggle_Price-phone-analysis-master —  папка с датасетами формата csv
 └── `README.md` — эта документация
 
-📁 `01_Kaggle_Price-phone-analysis-master/`
-├── 📘 `Price-phone-analysis-master.ipynb` — основной ноутбук с полным анализом
-├── 📄 `Price-phone-analysis-master.pdf` — экспорт ноутбука в PDF
-├── 📂 `Dataset_Kaggle_Price-phone-analysis-master/` — папка с датасетами в формате CSV
-└── 📝 `README.md` — документация проекта
 
 ## 🚀 Как запустить
 1. Склонировать репозиторий:
