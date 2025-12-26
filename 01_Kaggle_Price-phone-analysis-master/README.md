@@ -55,10 +55,10 @@
 ## 🚀 Как запустить
 1. Склонировать репозиторий:
    ```bash
-   git clone https://github.com/aspozd-DA-DS/DataAnalytics_projects.git
+   git clone https://github.com/aspozd-DA-DS/DataAnalytics_ML_projects.git
 2. Перейти в папку проекта:
    ```bash
-   cd DataAnalytics_projects/01_Kaggle_Price-phone-analysis-master
+   cd DataAnalytics_ML_projects/01_Kaggle_Price-phone-analysis-master
 3. Запустить ноутбук:
    ```bash
    jupyter notebook Price-phone-analysis-master.ipynb
