@@ -75,5 +75,13 @@
    ```bash
    git clone https://github.com/aspozd-DA-DS/DataAnalytics_projects.git
 
+2. Перейти в папку проекта:
+   ```bash
+   cd DataAnalytics_projects/03_Kaggle_Maternal Health Risk
 
-
+3. Запустить ноутбук:
+   ```bash
+   jupyter notebook Maternal Health Risk.ipynb
+   
+## 🏷 Topics
+`Data Analysis` `EDA` `Visualization` `Kaggle` `Python` ` Multiclass Classification` `Healthcare'
